@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scottsdaaale. I'm currently attending the Flatiron bootcamp for SE. I'm learning JS/react, and ruby/rails.
+- 👋 Hi, I’m Scotty. I'm currently attending the Flatiron bootcamp for SE. I'm learning JS/react, and ruby/rails.
 
 
 
