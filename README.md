@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Scotty. I'm currently attending the Flatiron bootcamp for SE. I'm learning JS/react, and ruby/rails.
+- 👋 Hello, I’m Scotty! A Flatiron grad who works with react, javascript, rails, and ruby. 
 
 
 
