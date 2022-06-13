@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Scotty! A Flatiron grad who works with react, javascript, rails, and ruby. 
+- 👋 Hello, I’m Scotty! I'm a Flatiron grad who works with react, javascript, rails, and ruby. 
 
 
 
