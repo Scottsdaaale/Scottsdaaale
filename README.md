@@ -1,9 +1,3 @@
 # 👋 Hello, I’m Scotty! 
-I'm a Flatiron grad who works with react, javascript, rails, and ruby. 
-
-
-
-<!---
-Scottsdaaale/Scottsdaaale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Flatiron grad who works with react, javascript, rails, and ruby.
+I am currently expanding my knowledge of web development with the goal of someday making this my career!
