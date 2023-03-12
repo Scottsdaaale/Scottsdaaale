@@ -10,11 +10,11 @@ I'm a Full Stack Web Developer who is passionate about building web applications
 
 ## 💻 Skills
 
-Languages: JavaScript, Python, Ruby, HTML/CSS
-Front-end: React, Bootstrap
-Back-end: Django, Rails
-Databases: PostgreSQL
-Tools: Git, VS Code, Postman, Jira, Figma
+- Languages: JavaScript, Python, Ruby, HTML/CSS
+- Front-end: React, Bootstrap
+- Back-end: Django, Rails
+- Databases: PostgreSQL
+- Tools: Git, VS Code, Postman, Jira, Figma
 
 ## 🌱 Currently Learning
 
