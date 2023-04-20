@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer who is passionate about building web applications
 
 - TypeScript
 - AWS
-
+- Redux/Redux Toolkit
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/scotty-peterson/)
