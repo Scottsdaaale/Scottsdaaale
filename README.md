@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer who is passionate about building web applications
 
 ## 🚀 Projects
 
--  🤘 **Metal Discovery App** (in production) - a web application that utilizes the Spotify, and Youtube APIs to help users discover new metal music.
+-  🤘 **Music Discovery App** (in production) - a web application that utilizes the Spotify, and Youtube APIs to help users discover new music.
 - 🎮 **MyClip** - a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
 - ⌨️ **HyperTyper** - a simple speed typing app made collaboratively during my time at Flatiron School.
 
