@@ -1,6 +1,6 @@
 # Hi there, I'm Scotty 👋
 
-I'm a Web Developer who is passionate about building web applications with React, Django, and Ruby on Rails.
+I'm a developer who is passionate about building web applications.
 
 ## 🚀 Projects
 
