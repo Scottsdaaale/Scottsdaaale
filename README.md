@@ -13,6 +13,7 @@ I'm a developer who is passionate about building web applications.
 - Languages: JavaScript, Python, Ruby, HTML/CSS
 - Front-end: React, Bootstrap
 - Back-end: Django, Rails
+- Content Management Systems (CMS): WordPress, Wix
 - Databases: PostgreSQL
 - Tools: Git, VS Code, Postman, Jira, Figma
 
