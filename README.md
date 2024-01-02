@@ -28,4 +28,4 @@ I'm a developer who is passionate about building web applications.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Scottsdaaale/GenreScope)
+
