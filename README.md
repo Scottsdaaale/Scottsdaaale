@@ -25,3 +25,5 @@ I'm a developer who is passionate about building web applications.
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/scotty-peterson/)
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
