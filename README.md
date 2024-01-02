@@ -1,4 +1,4 @@
-[![MasterHead](./imgs/banner.png)](https://www.scottypeterson.net/)
+[![MasterHead](./imgs/banner2.png)](https://www.scottypeterson.net/)
 
 I'm a developer who is passionate about building web applications.
 
