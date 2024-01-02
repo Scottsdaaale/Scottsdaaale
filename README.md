@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/8sTtcLq/github-intro-banner.png)](https://www.scottypeterson.net/)
+[![MasterHead](https://github.com/Scottsdaaale/Scottsdaaale/blob/main/imgs/banner.png?raw=true)](https://www.scottypeterson.net/)
 
 I'm a developer who is passionate about building web applications.
 
