@@ -26,4 +26,4 @@ I'm a developer who is passionate about building web applications.
 
 - [LinkedIn](https://www.linkedin.com/in/scotty-peterson/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottsdaaale)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottsdaaale&hide=stars,prs,issues,contribs)
