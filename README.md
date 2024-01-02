@@ -4,7 +4,7 @@ I'm a developer who is passionate about building web applications.
 
 ## 🚀 Projects
 
-- ![GenreScope GIF](./imgs/GenreScope.gif) **GenreScope** - a web application that utilizes the Spotify and Youtube APIs to help users discover new music
+- <img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50"> **GenreScope** - a web application that utilizes the Spotify and Youtube APIs to help users discover new music
 
 - 🎮 **MyClip** - a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
 
