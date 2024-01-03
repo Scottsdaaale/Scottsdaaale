@@ -5,6 +5,14 @@
 <table>
   <tr>
     <td style="text-align: center;">
+      <a href="https://woolie.tv">
+        <img src="./imgs/Woolie.gif" alt="Woolie GIF" width="50">
+      </a>
+        <br><strong>Woolie.tv</strong><br>
+        Woolie is a relaxation platform where you can customize your own experience. 
+        Choose between sets of videos, music, and background audio to fine tune your journey.
+    </td>
+    <td style="text-align: center;">
       <a href="https://github.com/Scottsdaaale/GenreScope">
         <img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50">
       </a>
