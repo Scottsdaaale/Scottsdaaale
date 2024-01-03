@@ -91,5 +91,4 @@
 [Instagram](https://www.instagram.com/scottsdaaale)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottsdaaale)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tebzxh2gz65xhiuwwxf3hxy)
