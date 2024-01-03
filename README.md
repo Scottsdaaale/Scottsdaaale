@@ -9,12 +9,14 @@ I'm a developer who is passionate about building web applications.
     <td style="text-align: center;">
       <img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50">
       <br><strong>GenreScope</strong><br>
-      a web application that utilizes the Spotify and Youtube APIs to help users discover new music
+      a web application that utilizes the Spotify and Youtube APIs to help users discover new music via genre.
     </td>
     <td style="text-align: center;">
       <img src="./imgs/MyClip.gif" alt="MyClip GIF" width="50">
       <br><strong>MyClip</strong><br>
-      a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
+      a clip uploading app where you can upload your gifyourgame.com clips.
+      Each clip has a comment section, star rating, and an average of the number
+      of stars rated by users.
     </td>
     <td style="text-align: center;">
       <img src="./imgs/HyperTyper.gif" alt="HyperTyper GIF" width="50">
