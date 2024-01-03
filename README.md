@@ -38,6 +38,7 @@
 <a href="https://woolie.tv">
   <img src="./imgs/Woolie.gif" alt="Woolie GIF" width="50">
 </a>
+
 - **Woolie.tv**: Relaxation platform where you can customize your own experience. Choose between sets of videos, music, and background audio to fine-tune your journey.
 
 <a href="https://github.com/Scottsdaaale/GenreScope">
