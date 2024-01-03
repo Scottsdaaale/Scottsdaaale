@@ -35,28 +35,28 @@
   </tr>
 </table> -->
 
-**Woolie.tv** <a href="https://woolie.tv"><img src="./imgs/Woolie.gif" alt="Woolie GIF" width="30"></a>
+**Woolie.tv** <a href="https://woolie.tv"><img src="./imgs/Woolie.gif" alt="Woolie GIF" width="40"></a>
 
 Relaxation platform where you can customize your own experience. Choose between sets of videos, music, and background audio to fine-tune your journey.
 
 ---
 <!-- Horizontal line to separate -->
 
-**GenreScope** <a href="https://github.com/Scottsdaaale/GenreScope"><img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="30"></a>
+**GenreScope** <a href="https://github.com/Scottsdaaale/GenreScope"><img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="40"></a>
 
 Web application that utilizes the Spotify and Youtube APIs to help users discover new music via genre.
 
 ---
 <!-- Horizontal line to separate -->
 
-**MyClip** <a href="https://github.com/Scottsdaaale/MyClip"><img src="./imgs/MyClip.gif" alt="MyClip GIF" width="30"></a>
+**MyClip** <a href="https://github.com/Scottsdaaale/MyClip"><img src="./imgs/MyClip.gif" alt="MyClip GIF" width="40"></a>
 
 Clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
 
 ---
 <!-- Horizontal line to separate -->
 
-**HyperTyper** <a href="https://github.com/Scottsdaaale/HyperTyper"><img src="./imgs/HyperTyper.gif" alt="HyperTyper GIF" width="30"></a>
+**HyperTyper** <a href="https://github.com/Scottsdaaale/HyperTyper"><img src="./imgs/HyperTyper.gif" alt="HyperTyper GIF" width="40"></a>
 
 Simple speed typing app made collaboratively during my time at Flatiron School. Try to beat your best time!
 
