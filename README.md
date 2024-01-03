@@ -48,8 +48,7 @@
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/scotty-peterson/)
-[Instagram](https://www.instagram.com/scottsdaaale)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[Instagram](https://www.instagram.com/scottsdaaale)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottsdaaale)](https://github.com/anuraghazra/github-readme-stats)
