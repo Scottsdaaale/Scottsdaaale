@@ -7,15 +7,16 @@ I'm a developer who is passionate about building web applications.
 <table>
   <tr>
     <td style="padding-right: 10px;">
-      <img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50">
+      <img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50"> 
+      GenreScope
     </td>
-    <td>**GenreScope** - a web application that utilizes the Spotify and Youtube APIs to help users discover new music</td>
+    <td> a web application that utilizes the Spotify and Youtube APIs to help users discover new music</td>
   </tr>
   <tr>
     <td style="padding-right: 10px;">
       <img src="./imgs/MyClip.gif" alt="MyClip GIF" width="50">
     </td>
-    <td>**MyClip** - a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.</td>
+    <td>MyClip - a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.</td>
   </tr>
   <tr>
     <td style="padding-right: 10px;">
