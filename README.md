@@ -2,7 +2,7 @@
 
 ## 🚀 Projects
 
-<table style="width: 100%;">
+<!-- <table style="width: 100%;">
   <tr>
     <td style="text-align: center; width: 25%;">
       <a href="https://woolie.tv">
@@ -33,7 +33,7 @@
         Simple speed typing app made collaboratively during my time at Flatiron School.
     </td>
   </tr>
-</table>
+</table> -->
 
 <a href="https://woolie.tv">
   <img src="./imgs/Woolie.gif" alt="Woolie GIF" width="50">
