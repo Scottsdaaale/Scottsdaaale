@@ -1,4 +1,4 @@
-[![MasterHead](./imgs/banner2.png)](https://www.scottypeterson.net/)
+[![MasterHead](./imgs/banner.png)](https://www.scottypeterson.net/)
 
 ## 🚀 Projects
 
