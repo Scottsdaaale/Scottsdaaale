@@ -39,7 +39,7 @@
   <img src="./imgs/Woolie.gif" alt="Woolie GIF" width="50">
 </a>
 
-**Woolie.tv**:
+**Woolie.tv**
 
 Relaxation platform where you can customize your own experience. Choose between sets of videos, music, and background audio to fine-tune your journey.
 
@@ -50,7 +50,7 @@ Relaxation platform where you can customize your own experience. Choose between 
   <img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50">
 </a>
 
-**GenreScope**:
+**GenreScope**
 
 Web application that utilizes the Spotify and Youtube APIs to help users discover new music via genre.
 
@@ -61,7 +61,7 @@ Web application that utilizes the Spotify and Youtube APIs to help users discove
   <img src="./imgs/MyClip.gif" alt="MyClip GIF" width="50">
 </a>
 
-**MyClip**:
+**MyClip**
 
 Clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
 
@@ -72,7 +72,7 @@ Clip uploading app where you can upload your gifyourgame.com clips. Each clip ha
   <img src="./imgs/HyperTyper.gif" alt="HyperTyper GIF" width="50">
 </a>
 
-**HyperTyper**:
+**HyperTyper**
 
 Simple speed typing app made collaboratively during my time at Flatiron School. Try to beat your best time!
 
