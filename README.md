@@ -1,4 +1,4 @@
-[![MasterHead](./imgs/banner.png)](https://www.scottypeterson.net/)
+[![MasterHead](./imgs/banner2-click.png)](https://www.scottypeterson.net/)
 
 ## 🚀 Projects
 
@@ -68,7 +68,6 @@
 
 **HyperTyper**: Simple speed typing app made collaboratively during my time at Flatiron School. Try to beat your best time!
 
-
 ## 💻 Skills
 
 - Languages: JavaScript, Python, Ruby, HTML/CSS
@@ -90,5 +89,5 @@
 
 [Instagram](https://www.instagram.com/scottsdaaale)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottsdaaale)](https://github.com/anuraghazra/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tebzxh2gz65xhiuwwxf3hxy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottsdaaale)](https://github.com/anuraghazra/github-readme-stats)
