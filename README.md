@@ -1,20 +1,14 @@
-<style>
-.img-padding {
-  padding-right: 10px;
-}
-</style>
-
 [![MasterHead](./imgs/banner2.png)](https://www.scottypeterson.net/)
 
 I'm a developer who is passionate about building web applications.
 
 ## 🚀 Projects
 
-<img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50" class="img-padding"> **GenreScope** - a web application that utilizes the Spotify and Youtube APIs to help users discover new music
+<img src="./imgs/GenreScope.gif" alt="GenreScope GIF" width="50" padding="50">  **GenreScope** - a web application that utilizes the Spotify and Youtube APIs to help users discover new music
 
-<img src="./imgs/MyClip.gif" alt="MyClip GIF" width="50" class="img-padding"> **MyClip** - a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
+<img src="./imgs/MyClip.gif" alt="MyClip GIF" width="50" padding="50">  **MyClip** - a clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
 
-<img src="./imgs/HyperTyper.gif" alt="HyperTyper GIF" width="50" class="img-padding"> **HyperTyper** - a simple speed typing app made collaboratively during my time at Flatiron School.
+<img src="./imgs/HyperTyper.gif" alt="HyperTyper GIF" width="50" padding="50">  **HyperTyper** - a simple speed typing app made collaboratively during my time at Flatiron School.
 
 ## 💻 Skills
 
