@@ -63,17 +63,18 @@ Simple speed typing app made collaboratively during my time at Flatiron School. 
 ## 💻 Skills
 
 - Languages: JavaScript, Python, Ruby, HTML/CSS
-- Front-end: React, Bootstrap
-- Back-end: Django, Rails
+- Front-end: React, Bootstrap, Tailwind, Redux 
+- Back-end: Django, Flask, Rails 
 - Content Management Systems (CMS): WordPress, Wix
 - Databases: PostgreSQL
 - Tools: Git, VS Code, Postman, Jira, Figma
 
 ## 🌱 Currently Learning
 
+- Next.js
 - TypeScript
 - AWS
-- Redux/Redux Toolkit
+- Node/Express
 
 ## 📫 Let's Connect
 
