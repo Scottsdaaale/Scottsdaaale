@@ -81,6 +81,3 @@ Simple speed typing app made collaboratively during my time at Flatiron School. 
 [LinkedIn](https://www.linkedin.com/in/scotty-peterson/)
 
 [Instagram](https://www.instagram.com/scottsdaaale)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22tebzxh2gz65xhiuwwxf3hxy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottsdaaale)](https://github.com/anuraghazra/github-readme-stats)
