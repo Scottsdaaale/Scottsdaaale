@@ -1,71 +1,74 @@
-[![Header](./imgs/banner2-click.png)](https://www.scottypeterson.net/)
+# Hi, I'm Scott 👋
 
-## 🚀 Projects
+## Marketing Technologist | Email Development | Automation & Integrations
 
-<!-- <table style="width: 100%;">
-  <tr>
-    <td style="text-align: center; width: 25%;">
-      <a href="https://woolie.tv">
-        <br><strong>Woolie.tv</strong><br> 
-      </a>
-        Relaxation platform where you can customize your own experience. Choose between sets of videos, music, and background audio to fine-tune your journey.
-    </td>
-    <td style="text-align: center; width: 25%;">
-      <a href="https://github.com/Scottsdaaale/GenreScope">
-        <br><strong>GenreScope</strong><br>
-      </a>
-        Web application that utilizes the Spotify and Youtube APIs to help users discover new music via genre.
-    </td>
-    <td style="text-align: center; width: 25%;">
-      <a href="https://github.com/Scottsdaaale/MyClip">
-        <br><strong>MyClip</strong><br> 
-      </a>
-        Clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
-    </td>
-    <td style="text-align: center; width: 25%;">
-      <a href="https://github.com/Scottsdaaale/HyperTyper">
-        <br><strong>HyperTyper</strong><br>
-      </a>
-        Simple speed typing app made collaboratively during my time at Flatiron School.
-    </td>
-  </tr>
-</table> -->
+I build lifecycle marketing automation programs - from coding email templates to architecting customer journey workflows.
 
-**Woolie.tv** <a href="https://woolie.tv"></a>
+### What I Do
 
-Relaxation platform where you can customize your own experience. Choose between sets of videos, music, and background audio to fine-tune your journey.
+📧 **Email Development**
+- Code responsive email templates (MJML/HTML)
+- Build dynamic personalization with variables
+- Design and implement email campaigns
+
+🔄 **Marketing Automation**
+- Architect customer lifecycle workflows
+- Build automation sequences (lead capture → retention)
+- Manage segmentation and journey mapping
+- Administer marketing automation platforms (Brevo)
+
+🔌 **System Integrations**
+- Connect marketing platforms via APIs and webhooks
+- Integrate CRM, payment systems, and marketing tools
+- Build automated data flows between systems
+- Technical troubleshooting and optimization
+
+📊 **Analytics & Strategy**
+- Create customer segmentation strategies
+- Track campaign performance and optimization
+- Build reporting dashboards
+- Data-driven decision making
+
+### Current Work
+
+Managing three segmented email newsletter programs while building comprehensive lifecycle automation architecture connecting marketing, CRM, and payment systems.
+
+### Tech Stack
+
+**Marketing Technology:**  
+MJML • HTML/CSS • Brevo • Email Marketing • Marketing Automation • Customer Lifecycle Management
+
+**Integration & Development:**  
+RESTful APIs • Webhooks • JavaScript • Python • React • Next.js • Django • PostgreSQL
+
+**Platforms & Tools:**  
+Brevo • Pipeline CRM • Stripe • Freshdesk • AWS • Git • Cursor • Postman
+
+### Background
+
+Full-stack developer (React, Python, Rails) now specializing in lifecycle marketing and marketing automation. I combine technical execution with strategic planning - I can both design the customer journey AND build the systems to execute it.
+
+### Featured Projects
+
+**🔄 Customer Lifecycle Automation Architecture**  
+End-to-end automation system with email workflows, API integrations, and customer journey mapping
+
+**📧 Email Marketing Campaigns**  
+Three segmented newsletter programs with MJML/HTML templates and dynamic personalization
+
+**🏥 Healthcare Compliance Implementation**  
+Multi-tenant SaaS platform with AWS infrastructure and automated workflows
+
+**💼 Business Systems Integration**  
+Financial dashboards and CRM integrations (Stripe, Mercury, Pipeline, Freshdesk)
+
+### Open To
+
+Lifecycle Marketing • Marketing Automation • Email Marketing • Technical Marketing • Marketing Operations roles
+
+📫 scottpetersonSE@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/scotty-peterson/) • [Portfolio](https://www.scottypeterson.net/)
 
 ---
-<!-- Horizontal line to separate -->
 
-**GenreScope** <a href="https://github.com/Scottsdaaale/GenreScope"></a>
-
-Web application that utilizes the Spotify and Youtube APIs to help users discover new music via genre.
-
----
-<!-- Horizontal line to separate -->
-
-**MyClip** <a href="https://github.com/Scottsdaaale/MyClip"></a>
-
-Clip uploading app where you can upload your gifyourgame.com clips. Each clip has a comment section, star rating, and an average of the number of stars rated by users.
-
----
-<!-- Horizontal line to separate -->
-
-**HyperTyper** <a href="https://github.com/Scottsdaaale/HyperTyper"></a>
-
-Simple speed typing app made collaboratively during my time at Flatiron School. Try to beat your best time!
-
-## 💻 Skills
-
-- Languages: JavaScript, TypeScript, Python, Ruby, HTML/CSS
-- Front-end: Next.js, React, Bootstrap, Tailwind, Redux 
-- Back-end: Django, Flask, Rails 
-- Databases: PostgreSQL, MongoDB
-- Tools: Git, VS Code, Postman, Jira, Figma
-
-## 📫 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/scotty-peterson/)
-
-[Instagram](https://www.instagram.com/scottsdaaale)
+*Marketing technologist who codes. Developer who understands customers.*
