@@ -6,24 +6,24 @@ I build lifecycle marketing automation programs - from coding email templates to
 
 ### What I Do
 
-📧 **Email Development**
+**Email Development**
 - Code responsive email templates (MJML/HTML)
 - Build dynamic personalization with variables
 - Design and implement email campaigns
 
-🔄 **Marketing Automation**
+**Marketing Automation**
 - Architect customer lifecycle workflows
 - Build automation sequences (lead capture → retention)
 - Manage segmentation and journey mapping
 - Administer marketing automation platforms (Brevo)
 
-🔌 **System Integrations**
+**System Integrations**
 - Connect marketing platforms via APIs and webhooks
 - Integrate CRM, payment systems, and marketing tools
 - Build automated data flows between systems
 - Technical troubleshooting and optimization
 
-📊 **Analytics & Strategy**
+**Analytics & Strategy**
 - Create customer segmentation strategies
 - Track campaign performance and optimization
 - Build reporting dashboards
@@ -50,16 +50,16 @@ Full-stack developer (React, Python, Rails) now specializing in lifecycle market
 
 ### Featured Projects
 
-**🔄 Customer Lifecycle Automation Architecture**  
+**Customer Lifecycle Automation Architecture**  
 End-to-end automation system with email workflows, API integrations, and customer journey mapping
 
-**📧 Email Marketing Campaigns**  
+**Email Marketing Campaigns**  
 Three segmented newsletter programs with MJML/HTML templates and dynamic personalization
 
-**🏥 Healthcare Compliance Implementation**  
+**Healthcare Compliance Implementation**  
 Multi-tenant SaaS platform with AWS infrastructure and automated workflows
 
-**💼 Business Systems Integration**  
+**Business Systems Integration**  
 Financial dashboards and CRM integrations (Stripe, Mercury, Pipeline, Freshdesk)
 
 ### Open To
